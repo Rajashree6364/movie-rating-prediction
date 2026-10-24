@@ -25,3 +25,4 @@ IMDb Movies India dataset from Kaggle.
 
 ## Conclusion
 This project demonstrates data cleaning, machine learning model training, movie rating prediction, and model evaluation using Python.
+<img width="1214" height="1295" alt="Movie Rating Prediction README Infographic" src="https://github.com/user-attachments/assets/9f2a0472-0ae1-4cc6-ac3c-d899c712b135" />
